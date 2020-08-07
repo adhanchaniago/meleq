@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'sql213.epizy.com',
-	'username' => 'epiz_26385716',
-	'password' => 'TaqmyVXQiC',
-	'database' => 'epiz_26385716_meleq',
+	'hostname' => 'u3r5w4ayhxzdrw87.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+	'username' => 'jgxvzb8mpbb9tgli',
+	'password' => 'xxryxhbcgb3eb2jk',
+	'database' => 'e4g892cb07q4ije3',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
